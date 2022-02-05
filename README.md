@@ -10,13 +10,13 @@
 <hr/>
 
 <p align="center">
-  <img src="https://github.com/imumer12/Projects/blob/main/Resources/newton1.png">
+  <img src="https://github.com/imumer12/Saving-Newton-Game/blob/main/newton1.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/imumer12/Projects/blob/main/Resources/newton%202.png">
+  <img src="https://github.com/imumer12/Saving-Newton-Game/blob/main/newton2.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/imumer12/Projects/blob/main/Resources/newton3.png">
+  <img src="https://github.com/imumer12/Saving-Newton-Game/blob/main/newton3.png">
 </p>
