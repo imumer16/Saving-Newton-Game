@@ -1,0 +1,12 @@
+C:\Users\umera\Documents\Visual Studio 2017\Projects\Saving newton\Saving newton\bin\Debug\Saving newton.exe.config
+C:\Users\umera\Documents\Visual Studio 2017\Projects\Saving newton\Saving newton\bin\Debug\Saving newton.exe
+C:\Users\umera\Documents\Visual Studio 2017\Projects\Saving newton\Saving newton\bin\Debug\Saving newton.pdb
+C:\Users\umera\Documents\Visual Studio 2017\Projects\Saving newton\Saving newton\obj\Debug\Saving newton.csprojAssemblyReference.cache
+C:\Users\umera\Documents\Visual Studio 2017\Projects\Saving newton\Saving newton\obj\Debug\Saving_newton.Splash_screen.resources
+C:\Users\umera\Documents\Visual Studio 2017\Projects\Saving newton\Saving newton\obj\Debug\Saving_newton.Properties.Resources.resources
+C:\Users\umera\Documents\Visual Studio 2017\Projects\Saving newton\Saving newton\obj\Debug\Saving newton.csproj.GenerateResource.cache
+C:\Users\umera\Documents\Visual Studio 2017\Projects\Saving newton\Saving newton\obj\Debug\Saving newton.csproj.CoreCompileInputs.cache
+C:\Users\umera\Documents\Visual Studio 2017\Projects\Saving newton\Saving newton\obj\Debug\Saving newton.exe
+C:\Users\umera\Documents\Visual Studio 2017\Projects\Saving newton\Saving newton\obj\Debug\Saving newton.pdb
+C:\Users\umera\Documents\Visual Studio 2017\Projects\Saving newton\Saving newton\obj\Debug\Saving_newton.Form2.resources
+C:\Users\umera\Documents\Visual Studio 2017\Projects\Saving newton\Saving newton\obj\Debug\Saving_newton.Form3.resources
