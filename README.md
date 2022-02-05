@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/imumer12/Saving-Newton-Game/blob/main/newton2.png">
+  <img src="https://github.com/imumer12/Saving-Newton-Game/blob/main/newton%202.png">
 </p>
 
 <p align="center">
